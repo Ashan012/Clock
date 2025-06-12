@@ -1,0 +1,8 @@
+* {
+  font-family: sans-serif;
+}
+#clock {
+  width: 100px;
+  transform: rotate(0deg);
+  /* transition: 0s ease; */
+}
